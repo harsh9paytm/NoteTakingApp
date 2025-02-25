@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.notestakingapp-mergeDebugResources-78:/layout/fragment_note_detail.xml",
+        "source": "com.example.notestakingapp-main-81:/layout/fragment_note_detail.xml"
+    },
+    {
+        "merged": "com.example.notestakingapp-mergeDebugResources-78:/layout/fragment_note_list.xml",
+        "source": "com.example.notestakingapp-main-81:/layout/fragment_note_list.xml"
+    },
+    {
+        "merged": "com.example.notestakingapp-mergeDebugResources-78:/layout/item_note.xml",
+        "source": "com.example.notestakingapp-main-81:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.example.notestakingapp-mergeDebugResources-78:/layout/activity_main.xml",
+        "source": "com.example.notestakingapp-main-81:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notestakingapp-mergeDebugResources-78:/layout/fragment_add_note.xml",
+        "source": "com.example.notestakingapp-main-81:/layout/fragment_add_note.xml"
+    }
+]

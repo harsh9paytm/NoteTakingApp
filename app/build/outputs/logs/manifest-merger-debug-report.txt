@@ -1,0 +1,579 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:databinding-adapters:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/af8d416a0f4a55fabe1ae4c3c9a9cbc9/transformed/databinding-adapters-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f79a312c265b40c8993cba658586226/transformed/databinding-ktx-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/75e6ecc43fa44307704f5cdab4b77c6f/transformed/databinding-runtime-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/319d132c1be83e3fbf58fd185876207c/transformed/viewbinding-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation-fragment:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e5ba90c8df55be35d422cb7d05c79d4b/transformed/hilt-navigation-fragment-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fa85e5c97fe36897919a6682f7e7d81f/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.51] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cef35975ee863288aafcfb9065072217/transformed/hilt-android-2.51/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.test.espresso:espresso-core:3.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9c9b8fcb5d8a5282c792b99a1b068aa9/transformed/espresso-core-3.6.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e0f3dc38e38a2b8bf43d8b6f1fda0295/transformed/navigation-common-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/588d02172a4ad0862d6016941007a0fb/transformed/navigation-common-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/ceb4c749d9e888aeee35fa879b8f6730/transformed/navigation-runtime-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7f6e7c35f899bab09b01b49e548d4e19/transformed/navigation-runtime-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04b8bdae780eeeb9d784bffa703c5104/transformed/navigation-fragment-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/62c75b41c76707b2fddc7c3ab3a27c2e/transformed/navigation-fragment-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bd21654f372e4a9bddabf1d4b4b69f35/transformed/navigation-ui-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2b9abdced8e2726570bbce3c8a0193a5/transformed/navigation-ui-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/0fdd46e523455ffe39826b8644388212/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/57b8a6b239a400040aa69dff06be05b5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/994a224a1d6a53176391d7dda22df482/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3dec7386973094cbd13f35d4f3071fee/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7b6aeab6dd1abc603241a7717b3fc8f3/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.8.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a4ec19d653adc9d1edbac2d9325435a/transformed/fragment-1.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c9819fbd4a211209b2d6b41e0c28d01b/transformed/fragment-ktx-1.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/63eb503754716ef21ebe5a29667e327b/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4ae7dc499d45db1e82d795dd355f4765/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/516611867e4bab500229ead760916a9c/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/874fecc1fae92081d446aef967fe8830/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/044df3669662129d49756a38680f4cc1/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4963d891f4ec9ed915f680e925fe7ebd/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e92122232c2b06282d442fe3f760d42f/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9aa370cdcd78896ff09458c1235a0413/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b19b6846f825dfd34c220519785ed253/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7ba0a509b7c8642ce945a7b2db8612ee/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/f0eb1b6a1d8730445910f29b00cf8ded/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a63863e611b8390fad5328c9cd8b2d4/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/07b4303fbe92bd617bc1400a9bc79a3f/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b55031952e31c857251bc7275c72024a/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fce52aee17c6236d69cd75bc552e9491/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/aeb2b1efa56d68190b1ab41505d64978/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/07b2649a3a5ceb7ea15849d05e602adb/transformed/activity-1.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c9828434d020f50bd1d28f3729039a7/transformed/activity-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fe0de63cbbc8d8793ab43af385864f0f/transformed/activity-compose-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7e56f88efc35868803e48c8366280b81/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2ae081c37b34ecdfb97317bd0c318950/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b75bfc55a1449ca5a21c1dff865a5585/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cd4ed50ad34e047d7519dc4908436751/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/354a9d68851e69e88179032236b2e13f/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4f75ac503f4ec40da70f656dc7a1b663/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/a1130eacc309d00d8adbd6ab3f64bdb6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a490a573640d5f22bcf2afe27b0a166/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3ac8c4877341313f04b47e0c96fa9b2a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c1caa2313e124c0274c3242267891d2f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/df10d0cdec148c0dd732ca42c3f0eaa1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/ce852e5f7ab2fe0069b98b1b62c486f9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/617388343c6195acbcc283a554dd1a6f/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/199afbfb7c19126af27422f228e8d89f/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c87071abe6ee15bcf8ef68cd16f7ed65/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7044d31eb4810861293efc786d17d7e2/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1db90218bc05da24841cf0639d1f17e3/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/a88e08fac1d97c58de310b825128ec8a/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/38b5bf665eadf6904c68dde757c75d9f/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/33d7f89b5153305d9c88cf98f64ad7c7/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1d2012b25cc6d22eb23bbc8aabbd8f37/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/66f489aba5e28215a02058132948f8f9/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e00107001c73418360b96fcf7249273b/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e5878917bc1f54d711f38e6da2abe11f/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/03e8f5e4ab75fe0015575ab2c86851fe/transformed/lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c2866f462530a496e351553351e64f79/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e80a93a112195f537da4c56138aa2c27/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/881de6f2bb0d84439925c4313ebc903c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/879c3ca9527d0badd430c7a34fb95b1d/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/08662decdd1864fbdf36359695ae75bb/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4648599cbe9f4414ea1d5ee17fe85dfb/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.test.services:storage:1.5.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c2cb0b3a16f6cee9801171a419a89ae4/transformed/storage-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.7.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9e100406bdee389be75563c5384b7238/transformed/monitor-1.7.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cb90571dad0f0cdf5ec2801da829a750/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/02061e184eac3561a3fb2a8b6dcb0a88/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/90d7a78e72da40f1635e5138d2ace8ad/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/64cb3f8f3446dd440f6577385ce586f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1719d2835ca5139d240c9de5e680ac8b/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4ccac023af9f13899c4dd155f39fcb7a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9fb87682c9dff1a081066dae903d94bf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/39e8d70035250dab79dbe9a57d142e92/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cdd2ccbda1bee4d8197f46a1a530f045/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4691a269a62588af905cdc46164f4d9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/085366c35d1283ab17e9cc955aff1666/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3139afb1b9f8087ed4762023084c912a/transformed/sqlite-framework-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b14404e00d115a2560873ce18a05d3c9/transformed/sqlite/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2bfb24c5b81355ee823410547b0930c2/transformed/dagger-lint-aar-2.51/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/edf95afa54e5988f30603bc067c05463/transformed/espresso-idling-resource-3.6.1/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:5:5-6:38
+	android:maxSdkVersion
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:6:9-35
+	android:name
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:9:5-32:19
+INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/0fdd46e523455ffe39826b8644388212/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/0fdd46e523455ffe39826b8644388212/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/57b8a6b239a400040aa69dff06be05b5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/57b8a6b239a400040aa69dff06be05b5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:30:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/64cb3f8f3446dd440f6577385ce586f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/64cb3f8f3446dd440f6577385ce586f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9fb87682c9dff1a081066dae903d94bf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9fb87682c9dff1a081066dae903d94bf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:18:9-52
+	android:dataExtractionRules
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:10:9-33
+activity#com.example.notestakingapp.MainActivity
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:24:13-45
+	android:exported
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:25:13-71
+	android:name
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:25:74-29:25
+action#android.intent.action.MAIN
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml:28:23-70
+uses-sdk
+INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/af8d416a0f4a55fabe1ae4c3c9a9cbc9/transformed/databinding-adapters-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/af8d416a0f4a55fabe1ae4c3c9a9cbc9/transformed/databinding-adapters-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f79a312c265b40c8993cba658586226/transformed/databinding-ktx-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f79a312c265b40c8993cba658586226/transformed/databinding-ktx-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/75e6ecc43fa44307704f5cdab4b77c6f/transformed/databinding-runtime-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/75e6ecc43fa44307704f5cdab4b77c6f/transformed/databinding-runtime-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/319d132c1be83e3fbf58fd185876207c/transformed/viewbinding-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.8.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/319d132c1be83e3fbf58fd185876207c/transformed/viewbinding-8.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-fragment:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e5ba90c8df55be35d422cb7d05c79d4b/transformed/hilt-navigation-fragment-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-fragment:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e5ba90c8df55be35d422cb7d05c79d4b/transformed/hilt-navigation-fragment-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fa85e5c97fe36897919a6682f7e7d81f/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fa85e5c97fe36897919a6682f7e7d81f/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.51] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cef35975ee863288aafcfb9065072217/transformed/hilt-android-2.51/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cef35975ee863288aafcfb9065072217/transformed/hilt-android-2.51/AndroidManifest.xml:18:3-42
+MERGED from [androidx.test.espresso:espresso-core:3.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9c9b8fcb5d8a5282c792b99a1b068aa9/transformed/espresso-core-3.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9c9b8fcb5d8a5282c792b99a1b068aa9/transformed/espresso-core-3.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e0f3dc38e38a2b8bf43d8b6f1fda0295/transformed/navigation-common-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e0f3dc38e38a2b8bf43d8b6f1fda0295/transformed/navigation-common-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/588d02172a4ad0862d6016941007a0fb/transformed/navigation-common-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/588d02172a4ad0862d6016941007a0fb/transformed/navigation-common-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/ceb4c749d9e888aeee35fa879b8f6730/transformed/navigation-runtime-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/ceb4c749d9e888aeee35fa879b8f6730/transformed/navigation-runtime-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7f6e7c35f899bab09b01b49e548d4e19/transformed/navigation-runtime-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7f6e7c35f899bab09b01b49e548d4e19/transformed/navigation-runtime-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04b8bdae780eeeb9d784bffa703c5104/transformed/navigation-fragment-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04b8bdae780eeeb9d784bffa703c5104/transformed/navigation-fragment-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/62c75b41c76707b2fddc7c3ab3a27c2e/transformed/navigation-fragment-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/62c75b41c76707b2fddc7c3ab3a27c2e/transformed/navigation-fragment-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bd21654f372e4a9bddabf1d4b4b69f35/transformed/navigation-ui-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bd21654f372e4a9bddabf1d4b4b69f35/transformed/navigation-ui-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2b9abdced8e2726570bbce3c8a0193a5/transformed/navigation-ui-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2b9abdced8e2726570bbce3c8a0193a5/transformed/navigation-ui-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/0fdd46e523455ffe39826b8644388212/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/0fdd46e523455ffe39826b8644388212/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/57b8a6b239a400040aa69dff06be05b5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/57b8a6b239a400040aa69dff06be05b5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/994a224a1d6a53176391d7dda22df482/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/994a224a1d6a53176391d7dda22df482/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3dec7386973094cbd13f35d4f3071fee/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3dec7386973094cbd13f35d4f3071fee/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7b6aeab6dd1abc603241a7717b3fc8f3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7b6aeab6dd1abc603241a7717b3fc8f3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.8.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a4ec19d653adc9d1edbac2d9325435a/transformed/fragment-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a4ec19d653adc9d1edbac2d9325435a/transformed/fragment-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c9819fbd4a211209b2d6b41e0c28d01b/transformed/fragment-ktx-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c9819fbd4a211209b2d6b41e0c28d01b/transformed/fragment-ktx-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/63eb503754716ef21ebe5a29667e327b/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/63eb503754716ef21ebe5a29667e327b/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4ae7dc499d45db1e82d795dd355f4765/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4ae7dc499d45db1e82d795dd355f4765/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/516611867e4bab500229ead760916a9c/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/516611867e4bab500229ead760916a9c/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/874fecc1fae92081d446aef967fe8830/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/874fecc1fae92081d446aef967fe8830/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/044df3669662129d49756a38680f4cc1/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/044df3669662129d49756a38680f4cc1/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4963d891f4ec9ed915f680e925fe7ebd/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4963d891f4ec9ed915f680e925fe7ebd/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e92122232c2b06282d442fe3f760d42f/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e92122232c2b06282d442fe3f760d42f/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9aa370cdcd78896ff09458c1235a0413/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9aa370cdcd78896ff09458c1235a0413/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b19b6846f825dfd34c220519785ed253/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b19b6846f825dfd34c220519785ed253/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7ba0a509b7c8642ce945a7b2db8612ee/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7ba0a509b7c8642ce945a7b2db8612ee/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/f0eb1b6a1d8730445910f29b00cf8ded/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/f0eb1b6a1d8730445910f29b00cf8ded/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a63863e611b8390fad5328c9cd8b2d4/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a63863e611b8390fad5328c9cd8b2d4/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/07b4303fbe92bd617bc1400a9bc79a3f/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/07b4303fbe92bd617bc1400a9bc79a3f/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b55031952e31c857251bc7275c72024a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b55031952e31c857251bc7275c72024a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fce52aee17c6236d69cd75bc552e9491/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fce52aee17c6236d69cd75bc552e9491/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/aeb2b1efa56d68190b1ab41505d64978/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/aeb2b1efa56d68190b1ab41505d64978/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/07b2649a3a5ceb7ea15849d05e602adb/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/07b2649a3a5ceb7ea15849d05e602adb/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c9828434d020f50bd1d28f3729039a7/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c9828434d020f50bd1d28f3729039a7/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fe0de63cbbc8d8793ab43af385864f0f/transformed/activity-compose-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/fe0de63cbbc8d8793ab43af385864f0f/transformed/activity-compose-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7e56f88efc35868803e48c8366280b81/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7e56f88efc35868803e48c8366280b81/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2ae081c37b34ecdfb97317bd0c318950/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2ae081c37b34ecdfb97317bd0c318950/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b75bfc55a1449ca5a21c1dff865a5585/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b75bfc55a1449ca5a21c1dff865a5585/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cd4ed50ad34e047d7519dc4908436751/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cd4ed50ad34e047d7519dc4908436751/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/354a9d68851e69e88179032236b2e13f/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/354a9d68851e69e88179032236b2e13f/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4f75ac503f4ec40da70f656dc7a1b663/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4f75ac503f4ec40da70f656dc7a1b663/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/a1130eacc309d00d8adbd6ab3f64bdb6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/a1130eacc309d00d8adbd6ab3f64bdb6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a490a573640d5f22bcf2afe27b0a166/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/8a490a573640d5f22bcf2afe27b0a166/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3ac8c4877341313f04b47e0c96fa9b2a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3ac8c4877341313f04b47e0c96fa9b2a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c1caa2313e124c0274c3242267891d2f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c1caa2313e124c0274c3242267891d2f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/df10d0cdec148c0dd732ca42c3f0eaa1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/df10d0cdec148c0dd732ca42c3f0eaa1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/ce852e5f7ab2fe0069b98b1b62c486f9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/ce852e5f7ab2fe0069b98b1b62c486f9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/617388343c6195acbcc283a554dd1a6f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/617388343c6195acbcc283a554dd1a6f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/199afbfb7c19126af27422f228e8d89f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/199afbfb7c19126af27422f228e8d89f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c87071abe6ee15bcf8ef68cd16f7ed65/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c87071abe6ee15bcf8ef68cd16f7ed65/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7044d31eb4810861293efc786d17d7e2/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7044d31eb4810861293efc786d17d7e2/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1db90218bc05da24841cf0639d1f17e3/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1db90218bc05da24841cf0639d1f17e3/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/a88e08fac1d97c58de310b825128ec8a/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/a88e08fac1d97c58de310b825128ec8a/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/38b5bf665eadf6904c68dde757c75d9f/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/38b5bf665eadf6904c68dde757c75d9f/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/33d7f89b5153305d9c88cf98f64ad7c7/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/33d7f89b5153305d9c88cf98f64ad7c7/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1d2012b25cc6d22eb23bbc8aabbd8f37/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1d2012b25cc6d22eb23bbc8aabbd8f37/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/66f489aba5e28215a02058132948f8f9/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/66f489aba5e28215a02058132948f8f9/transformed/lifecycle-service-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e00107001c73418360b96fcf7249273b/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e00107001c73418360b96fcf7249273b/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e5878917bc1f54d711f38e6da2abe11f/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e5878917bc1f54d711f38e6da2abe11f/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/03e8f5e4ab75fe0015575ab2c86851fe/transformed/lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/03e8f5e4ab75fe0015575ab2c86851fe/transformed/lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c2866f462530a496e351553351e64f79/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c2866f462530a496e351553351e64f79/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e80a93a112195f537da4c56138aa2c27/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e80a93a112195f537da4c56138aa2c27/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/881de6f2bb0d84439925c4313ebc903c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/881de6f2bb0d84439925c4313ebc903c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/879c3ca9527d0badd430c7a34fb95b1d/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/879c3ca9527d0badd430c7a34fb95b1d/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/08662decdd1864fbdf36359695ae75bb/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/08662decdd1864fbdf36359695ae75bb/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4648599cbe9f4414ea1d5ee17fe85dfb/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4648599cbe9f4414ea1d5ee17fe85dfb/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.5.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c2cb0b3a16f6cee9801171a419a89ae4/transformed/storage-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.5.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/c2cb0b3a16f6cee9801171a419a89ae4/transformed/storage-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9e100406bdee389be75563c5384b7238/transformed/monitor-1.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9e100406bdee389be75563c5384b7238/transformed/monitor-1.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cb90571dad0f0cdf5ec2801da829a750/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cb90571dad0f0cdf5ec2801da829a750/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/02061e184eac3561a3fb2a8b6dcb0a88/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/02061e184eac3561a3fb2a8b6dcb0a88/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/90d7a78e72da40f1635e5138d2ace8ad/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/90d7a78e72da40f1635e5138d2ace8ad/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/64cb3f8f3446dd440f6577385ce586f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/64cb3f8f3446dd440f6577385ce586f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1719d2835ca5139d240c9de5e680ac8b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1719d2835ca5139d240c9de5e680ac8b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4ccac023af9f13899c4dd155f39fcb7a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4ccac023af9f13899c4dd155f39fcb7a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9fb87682c9dff1a081066dae903d94bf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/9fb87682c9dff1a081066dae903d94bf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/39e8d70035250dab79dbe9a57d142e92/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/39e8d70035250dab79dbe9a57d142e92/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cdd2ccbda1bee4d8197f46a1a530f045/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/cdd2ccbda1bee4d8197f46a1a530f045/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4691a269a62588af905cdc46164f4d9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4691a269a62588af905cdc46164f4d9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/085366c35d1283ab17e9cc955aff1666/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/085366c35d1283ab17e9cc955aff1666/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3139afb1b9f8087ed4762023084c912a/transformed/sqlite-framework-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3139afb1b9f8087ed4762023084c912a/transformed/sqlite-framework-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b14404e00d115a2560873ce18a05d3c9/transformed/sqlite/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/b14404e00d115a2560873ce18a05d3c9/transformed/sqlite/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.51] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2bfb24c5b81355ee823410547b0930c2/transformed/dagger-lint-aar-2.51/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2bfb24c5b81355ee823410547b0930c2/transformed/dagger-lint-aar-2.51/AndroidManifest.xml:18:3-42
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/edf95afa54e5988f30603bc067c05463/transformed/espresso-idling-resource-3.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/edf95afa54e5988f30603bc067c05463/transformed/espresso-idling-resource-3.6.1/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harshsharma/Downloads/NotesApp0/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/1f63132c4519946175a821100cc83d96/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.6] /Users/harshsharma/.gradle/caches/8.10.2/transforms/7cb5071cc505ca5c92cf71c2aaf3c3c9/transformed/ui-test-manifest-1.6.6/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/64cb3f8f3446dd440f6577385ce586f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/64cb3f8f3446dd440f6577385ce586f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/46bcd0ae8c45f71c54e50425b3ed250f/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/e21273ec899538c0d3e4d039b087476f/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.example.notestakingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.notestakingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/4c149772da367ef91fd4f8dda12d27d8/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/04f7b04c4f9b97b54c874b437cb0d0b4/transformed/core-1.6.1/AndroidManifest.xml:44:13-103
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /Users/harshsharma/.gradle/caches/8.10.2/transforms/bc9be78c51fe59406125a5e63587fe49/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.7.0-alpha13] /Users/harshsharma/.gradle/caches/8.10.2/transforms/2f04c15ca052a8607dbf4f3ddabf8a96/transformed/room-runtime-release/AndroidManifest.xml:25:13-74
+queries
+ADDED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:24:5-28:15
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.6.1] /Users/harshsharma/.gradle/caches/8.10.2/transforms/654050a4ab8bd7c153998e218ee2cae0/transformed/runner-1.6.1/AndroidManifest.xml:27:18-80
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/harshsharma/.gradle/caches/8.10.2/transforms/3e3c89ef63ad6c5ff33435eb264857b3/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
